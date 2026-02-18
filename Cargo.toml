@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "crates/otf-app",
+    "crates/otf-kernels",
+]
+resolver = "2"
