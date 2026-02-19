@@ -16,3 +16,6 @@ Thumbs.db
 *.log
 *.tmp
 debug/
+
+# Models
+models/
