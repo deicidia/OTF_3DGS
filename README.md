@@ -32,5 +32,10 @@ Pour lancer les tests d'un package spécifique (ex: les kernels) :
 cargo test -p otf-kernels
 ```
 
+### Benchmarks
+Pour lancer les benchmarks d'un package spécifique (ex: les kernels) :
+```bash
+cargo bench -p otf-kernels
+```
 
 
